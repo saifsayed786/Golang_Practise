@@ -13,3 +13,4 @@ func main() {
 	// Accepting return value in varaible
 	sum := add(20, 30)
 	fmt.Println(sum)
+}
